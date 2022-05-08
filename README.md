@@ -1,7 +1,8 @@
+![](https://github.com/miabergstrom/miabergstrom/blob/main/GitHubBanner.png)
 # Mia Bergstrom
-Pronouns: she/her/hers
 ### Incoming Product Manager at The Douglas Stewart Company
 ### 2022 University of Iowa Graduate
+Pronouns: she/her/hers
 
 [Portfolio](https://miabergstrom.com/)
 
