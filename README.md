@@ -1,6 +1,6 @@
 ![](https://github.com/miabergstrom/miabergstrom/blob/main/GitHubBanner.png)
 # Mia Bergstrom
-### Incoming Product Manager at The Douglas Stewart Company
+### Product Manager at The Douglas Stewart Company
 ### 🎓 2022 University of Iowa Graduate: B.B.A. Business Analytics; B.B.A. Entrepreneurial Management
 Pronouns: she/her/hers
 
